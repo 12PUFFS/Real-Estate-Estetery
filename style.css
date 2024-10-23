@@ -398,7 +398,7 @@ img {
 }
 
 #firstinput {
-  background-image: url(/src/image/rent.svg);
+  background-image: url(image/rent.svg);
 }
 
 .location__header-left-item:not(:last-child) {
@@ -440,7 +440,7 @@ img {
 }
 
 .rent::before {
-  background-image: url(/src/image/rent.svg);
+  background-image: url(image/rent.svg);
   position: absolute;
   left: 24px;
   content: "";
@@ -456,7 +456,7 @@ img {
 }
 
 .buy::before {
-  background-image: url(/src/image/buy.svg);
+  background-image: url(image/buy.svg);
   position: absolute;
   left: 24px;
   content: "";
@@ -468,7 +468,7 @@ img {
 }
 
 .sell::before {
-  background-image: url(/src/image/sell.svg);
+  background-image: url(image/sell.svg);
   position: absolute;
   left: 24px;
   content: "";
@@ -477,7 +477,7 @@ img {
 }
 
 .location__header-right-text::before {
-  background-image: url(/src/image/search.svg);
+  background-image: url(image/search.svg);
   position: absolute;
   left: 10px;
   content: "";
@@ -498,7 +498,7 @@ li.location__list-item::before {
   background-size: cover;
   position: absolute;
   content: "";
-  background-image: url(/src/image/popular.svg);
+  background-image: url(image/popular.svg);
   background-repeat: no-repeat;
   /* left: -8px; */
   transform: translateX(-9.6%);
@@ -609,7 +609,7 @@ li.location__list-item::before {
 .location__list-circle::before {
   position: absolute;
   content: "";
-  background-image: url(/src/image/like.svg);
+  background-image: url(image/like.svg);
   width: 24px;
   height: 24px;
   transform: translate(45%, 50%);
@@ -792,7 +792,7 @@ li.location__list-item::before {
   width: 32px;
   height: 32px;
   transform: translate(50%, 50%);
-  /* background-image: url(/src/image/v1.svg); */
+  /* background-image: url(image/v1.svg); */
 }
 
 .grey {
